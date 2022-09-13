@@ -3,7 +3,7 @@ Project Velocita aims to be an open source racing and open world driving simalto
 
 Overview:
 
-![Diagram](Project Velocita.png)
+![Diagram](Project_Velocita.png)
 
 Tech Features
 - Open Source code base
